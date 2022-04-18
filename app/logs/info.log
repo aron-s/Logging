@@ -1,0 +1,36 @@
+[2022-04-12 15:38:15,632] 172.23.0.1 requested http://localhost/
+INFO in __init__: this is the plain message
+[2022-04-12 15:38:35,662] 172.23.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-12 15:38:48,205] 172.23.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-12 15:38:56,815] 172.23.0.1 requested http://localhost/register
+INFO in __init__: this is the plain message
+[2022-04-12 15:39:07,828] 172.23.0.1 requested http://localhost/register
+INFO in __init__: this is the plain message
+[2022-04-12 15:39:07,931] 172.23.0.1 requested http://localhost/login
+INFO in __init__: this is the plain message
+[2022-04-12 15:39:19,005] 172.23.0.1 requested http://localhost/login
+INFO in __init__: this is the plain message
+[2022-04-12 15:39:19,148] 172.23.0.1 requested http://localhost/dashboard
+INFO in __init__: this is the plain message
+[2022-04-12 15:39:23,896] 172.23.0.1 requested http://localhost/dashboard
+INFO in __init__: this is the plain message
+[2022-04-12 15:39:25,003] 172.23.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-12 15:39:25,975] 172.23.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message
+[2022-04-12 15:39:27,155] 172.23.0.1 requested http://localhost/dashboard
+INFO in __init__: this is the plain message
+[2022-04-12 15:39:39,573] 172.23.0.1 requested http://localhost/account
+INFO in __init__: this is the plain message
+[2022-04-12 15:39:41,434] 172.23.0.1 requested http://localhost/profile
+INFO in __init__: this is the plain message
+[2022-04-12 15:39:50,167] 172.23.0.1 requested http://localhost/profile
+INFO in __init__: this is the plain message
+[2022-04-12 15:39:50,255] 172.23.0.1 requested http://localhost/dashboard
+INFO in __init__: this is the plain message
+[2022-04-12 15:39:53,079] 172.23.0.1 requested http://localhost/about
+INFO in __init__: this is the plain message
+[2022-04-12 15:39:54,767] 172.23.0.1 requested http://localhost/welcome
+INFO in __init__: this is the plain message

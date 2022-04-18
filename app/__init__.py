@@ -21,24 +21,13 @@ from app.exceptions import http_exceptions
 from app.simple_pages import simple_pages
 import logging
 from flask.logging import default_handler
+from app.log_formatter import RequestFormatter
 
 login_manager = flask_login.LoginManager()
 
 
 def page_not_found(e):
     return render_template("404.html"), 404
-
-
-class RequestFormatter(logging.Formatter):
-    def format(self, record):
-        if has_request_context():
-            record.url = request.url
-            record.remote_addr = request.remote_addr
-        else:
-            record.url = None
-            record.remote_addr = None
-
-        return super().format(record)
 
 
 def create_app():
